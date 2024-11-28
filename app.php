@@ -24,5 +24,3 @@ if (empty($data['results'])) {
 }
 
 return $data['results'];
-
-?>
